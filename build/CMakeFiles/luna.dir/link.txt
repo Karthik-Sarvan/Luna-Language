@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/luna.dir/src/main.cpp.o -o luna 

@@ -1,0 +1,3 @@
+/home/karthik/Luna-Language/build/CMakeFiles/luna.dir
+/home/karthik/Luna-Language/build/CMakeFiles/edit_cache.dir
+/home/karthik/Luna-Language/build/CMakeFiles/rebuild_cache.dir
